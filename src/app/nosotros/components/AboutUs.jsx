@@ -21,9 +21,9 @@ const AboutUs = () => {
                     </div>
                     <div className="item">
                         <h3>Atención al cliente</h3>
-                        <p>tel: +115491132542154</p>
-                        <p>wpp: +115491132542154</p>
-                        <p>email: example@gmail.com</p>
+                        <p>Tel: +115491132542154</p>
+                        <p>Wpp: +115491132542154</p>
+                        <p>Email: example@gmail.com</p>
                     </div>
                 </div>
             </div>
