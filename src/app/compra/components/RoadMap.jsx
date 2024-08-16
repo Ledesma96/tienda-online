@@ -26,7 +26,7 @@ const { width } = useWindowSize()
   return (
     <main className="container-roadmap">
       <h1>¿COMO COMPRAR?</h1>
-      <img src={ width >= 1024 ? "/desktop-radmap.jpg":"/Untitled (1).svg"}></img>
+      <img src={ width >= 1024 ? "/desktop-radmap.svg":"/Untitled (1).svg"}></img>
     </main>
   );
 };
