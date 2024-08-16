@@ -3,6 +3,7 @@ import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 
 const Desktop = ({ pathName }) => {
+  const [open, setOpen] = useState(false)
   const [underlineStyle, setUnderlineStyle] = useState({});
   const linksRef = useRef([]);
 

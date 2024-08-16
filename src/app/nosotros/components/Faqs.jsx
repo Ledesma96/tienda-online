@@ -2,7 +2,7 @@
 const Faqs = () => {
     return (
         <div className="container-faqs">
-            <h4>FAQ&apos;S</h4>
+            <h4>PREGUNTAS FRECUENTES</h4>
             <section>
                 <div>
                     <h5>¿Cuáles son las opciones de entrega?</h5>

@@ -1,4 +1,4 @@
-import { Banner, Content, Title } from "./components";
+import { Banner, BtnProducts, Content, Title } from "./components";
 
 export default function Home() {
   return (
@@ -6,6 +6,7 @@ export default function Home() {
       <Banner/>
       <Title/>
       <Content/>
+      <BtnProducts/>
     </>
   );
 }

@@ -3,7 +3,7 @@ import Runway from './components/Runway'
 
 const page = () => {
     return (
-        <main>
+        <main className='container-details'>
             <Runway />
             <Details />
         </main>
