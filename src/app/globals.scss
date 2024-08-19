@@ -642,11 +642,12 @@ body{
         border: 1px solid black;
         display: flex;
         flex-direction: column;
-        justify-content: center;
+        justify-content: flex-start;
         align-items: center;
         margin-bottom: 16px;
         z-index: 999;
         h3{
+          margin-top: 24px;
           color: white;
           font-size: 1.2rem;
           font-weight: 600;
